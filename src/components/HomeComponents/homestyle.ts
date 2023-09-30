@@ -9,14 +9,12 @@ export const Backgrounddiv = styled.div`
     display:flex;
     margin-bottom: 40px;
     
-  
 `
 
 export const homeContainer = styled.div`
 
     margin-left:15%;
     margin-top:10%;
-
 
 `;
 

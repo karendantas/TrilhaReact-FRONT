@@ -1,5 +1,5 @@
 import * as S from "./homestyle"
-import background from "../img/homeimg.png"
+import background from "/src/img/homeimg.png"
 import { AiFillClockCircle, AiFillCalendar, AiTwotoneEnvironment} from "react-icons/ai";
 
 
@@ -17,6 +17,7 @@ export const Home = () => {
         </S.Backgrounddiv>
     
             <h2>Saiba mais sobre o evento</h2>
+            
             <S.infoContainer>
                 <S.infoGroup>
                     <AiFillClockCircle/>
